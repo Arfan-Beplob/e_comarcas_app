@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8501569925",
+    "project_id": "e-comarcas-app",
+    "storage_bucket": "e-comarcas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8501569925:android:a67475f3b42fedf84ffcec",
+        "android_client_info": {
+          "package_name": "com.example.e_comarcas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS2ZUN4fuKs8HNro9_tH2upEO44FRfEpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
